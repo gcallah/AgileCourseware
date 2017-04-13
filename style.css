@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: #ddd;
+    background: #444;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a:link {
+    color: #acf;
+}
+
+a:visited {
+    color: #cbf;
+}
+
+hr {
+    margin: 40px 256px 40px 256px
+}
+
+table, th, td {
+    border: 1px solid black;
+    }
+    th, td {
+            padding: 15px;
+    }
+
+p, summary {
+    margin: 8px 40px 8px 40px;
+}
+
+summary {
+    color: #cbe;
+}
+
+ol, ul, dl, li {
+    margin: 20px 12px 8px 12px;
+}
+
+p {
+    padding: 0;
+    line-height: 140%;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: bold;
+}
+
+h1 {
+    margin: 0px 0px 24px 0px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 32px;
+    color: #933;
+    background-color: #cbe;
+}
+
+h2 {
+    font-size: 26px;
+    margin: 48px 24px 12px 24px;
+    color: #f66;
+}
+
+h2.subhead {
+    font-weight:
+    normal;
+    margin-top:
+    0;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 20px 32px 12px 32px;
+    color: #ecb;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 16px 40px 12px 40px;
+    color: #339;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 16px;
+    margin: 16px 48px 12px 48px;
+    color: #600;
+    font-weight: bold;
+
+}
+
+.vim_key {
+    color: #e0e
+    font-weight: bold;
+}
+
+figure {
+    text-align: center;
+}
+
+figure#topfig {
+    margin: 0px 0px 0px 0px;
+}
