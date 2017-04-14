@@ -26,12 +26,26 @@ table, th, td {
             padding: 15px;
     }
 
-p, summary {
+p {
     margin: 8px 40px 8px 40px;
 }
 
-summary {
+summary#sum1 {
+    font-size: 22px;
     color: #cbe;
+    margin: 8px 24px 8px 24px;
+}
+
+summary#sum2 {
+    font-size: 20px;
+    color: #ebc;
+    margin: 8px 32px 8px 32px;
+}
+
+summary#sum3 {
+    font-size: 18px;
+    color: #bce;
+    margin: 8px 40px 8px 40px;
 }
 
 ol, ul, dl, li {
@@ -53,7 +67,7 @@ h1 {
     padding-bottom: 24px;
     text-align: center;
     font-weight: 300;
-    font-size: 32px;
+    font-size: 36px;
     color: #933;
     background-color: #cbe;
 }
@@ -104,4 +118,12 @@ figure {
 
 figure#topfig {
     margin: 0px 0px 0px 0px;
+}
+
+figcaption {
+    font-size: 12px;
+    color: #fef;
+    font-style: italic;
+    text-align: center;
+    margin: 16px 20px 12px 20px;
 }
