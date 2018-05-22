@@ -127,3 +127,10 @@ figcaption {
     text-align: center;
     margin: 16px 20px 12px 20px;
 }
+
+p.author {
+    text-align: center;
+    margin: 1em 1em 1em 1em;
+    font-size: 1.3em;
+    color: #cbe;
+}
